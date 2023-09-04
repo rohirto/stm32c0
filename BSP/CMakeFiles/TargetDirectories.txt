@@ -1,0 +1,3 @@
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/BSP/CMakeFiles/BSP.out.dir
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/BSP/CMakeFiles/edit_cache.dir
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/BSP/CMakeFiles/rebuild_cache.dir

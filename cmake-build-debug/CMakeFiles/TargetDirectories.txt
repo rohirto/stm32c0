@@ -1,0 +1,3 @@
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/cmake-build-debug/CMakeFiles/stm32c0.out.dir
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/rohir/OneDrive/Documents/stm32c0/stm32c0/cmake-build-debug/CMakeFiles/rebuild_cache.dir
